@@ -5,10 +5,10 @@ if 'scene' not in st.session_state:
     st.session_state.scene = 'start'
 
 # 2. Персонаждардың суреттеріне сілтеме (Осы жерге өз суреттеріңіздің сілтемесін қойыңыз)
-# Мысалы: GitHub-қа жүктелген суреттер немесе интернеттегі сілтемелер
-char_happy = "https://raw.githubusercontent.com/your-repo/happy_apple.png"
-char_sad = "https://raw.githubusercontent.com/your-repo/sad_apple.png"
-char_thinking = "https://raw.githubusercontent.com/your-repo/thinking_apple.png"
+# Суреттерді айнымалыларға меншіктеу (PNG форматы үшін)
+char_happy = "https://raw.githubusercontent.com/jazirakur-netizen/Simulator-Joba/main/Gemini_Generated_Image_qf6dyfqf6dyfqf6d.png"
+char_sad = "https://raw.githubusercontent.com/jazirakur-netizen/Simulator-Joba/main/Gemini_Generated_Image_3kb34w3kb34w3kb3.png"
+char_thinking = "https://raw.githubusercontent.com/jazirakur-netizen/Simulator-Joba/main/Gemini_Generated_Image_2r8rs52r8rs52r8r.png"
 
 st.title("🍏 OBAL PRO: Эко-приключение")
 
